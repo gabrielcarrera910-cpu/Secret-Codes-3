@@ -1,4 +1,5 @@
 # Secret-Codes-3
 the password is "brown18" It is Copyble!
 When you at "secret Codes.bat"
-click "Download raw
+click "Download raw file"
+and then you can put codes in the "privite file"
